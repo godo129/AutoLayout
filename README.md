@@ -3,8 +3,8 @@
  
 ### 목차
 - [Auto Layout이 나온 배경](#1._Auto_Layout이_나온_배경)
-- [Auto Layout 구성](#2._Auto Layout 구성)
-- [제약 세부 정보](#3._제약 세부 정보)
+- [Auto Layout 구성](#2._Auto_Layout_구성)
+- [제약 세부 정보](#3._제약_세부_정보)
 
 ## 1. Auto Layout이 나온 배경 
 
