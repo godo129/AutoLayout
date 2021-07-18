@@ -1,12 +1,12 @@
 # **Swift Auto Layout**
  ---
  
-### Contents 
-- [Auto Layout이 나온 배경](#Auto_Layout이_나온_배경)
-- Auto Layout 구성
-- (제약 세부 정보)[#제약_세부_정보] 
+### 목차
+- [Auto Layout이 나온 배경](#1._Auto_Layout이_나온_배경)
+- [Auto Layout 구성](#2._Auto Layout 구성)
+- [제약 세부 정보](#3._제약 세부 정보)
 
-## Auto Layout이 나온 배경 
+## 1._Auto Layout이 나온 배경 
 
 스위프트 Auto Layout은 기존의 Frame-Based Layout의 부족한 점을 채우기 위해서 나온 방식입니다.
 
